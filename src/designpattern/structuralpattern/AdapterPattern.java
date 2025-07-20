@@ -45,9 +45,7 @@ class PrinterAdapter implements Printer {
 
 // ----------------------------------------------------------------
 
-/**
- * [Client] 어댑터 패턴을 사용하는 클라이언트 코드입니다.
- */
+
 public class AdapterPattern {
     public static void main(String[] args) {
         // 1. 기존에 사용하던 구형 프린터(Adaptee) 객체를 생성합니다.
